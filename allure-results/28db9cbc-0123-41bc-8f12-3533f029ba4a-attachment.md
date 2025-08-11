@@ -1,0 +1,228 @@
+# Page snapshot
+
+```yaml
+- dialog "Manage Cookie Consent":
+  - text: Manage Cookie Consent
+  - button "Close dialog"
+  - text: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+  - button "Accept"
+  - button "Deny"
+  - button "View preferences"
+  - link:
+    - /url: https://reteflix.reteicons.com/
+- img "loader"
+- banner:
+  - link:
+    - /url: https://reteflix.reteicons.com/
+  - navigation "Widget menu":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: https://reteflix.reteicons.com/
+      - listitem:
+        - link "Biography":
+          - /url: https://reteflix.reteicons.com/biography-2-2/
+      - listitem:
+        - link "About us":
+          - /url: https://reteflix.reteicons.com/about-us-3/
+      - listitem:
+        - link "Gallery":
+          - /url: /gallery-002/
+      - listitem:
+        - link "Awards":
+          - /url: https://reteflix.reteicons.com/elementor-21538/
+      - listitem:
+        - link "Blog":
+          - /url: https://reteflix.reteicons.com/blog/
+      - listitem:
+        - link "Movie Teasers":
+          - /url: https://reteflix.reteicons.com/view-all/?type=movies&title=.
+  - link:
+    - /url: javascript:void(0);
+- main:
+  - heading "Tolulope Yesufu" [level=4]:
+    - strong: Tolulope Yesufu
+  - paragraph
+  - heading "An award-winning maven of versatility seamlessly transitioning from business to acting to producing with unmatched finesse." [level=5]
+  - heading "Movie Teasers" [level=4]
+  - link "View All":
+    - /url: https://reteflix.reteicons.com/view-all/?type=movies&title=.
+  - heading "." [level=4]
+  - list:
+    - link "":
+      - /url: "#"
+    - listitem:
+      - link:
+        - /url: https://reteflix.reteicons.com/movie/shattered-hearts/
+      - img "image"
+      - heading "Shattered Hearts" [level=6]:
+        - link "Shattered Hearts":
+          - /url: https://reteflix.reteicons.com/movie/shattered-hearts/
+      - link "Play Now":
+        - /url: https://reteflix.reteicons.com/movie/shattered-hearts/
+      - list:
+        - listitem: 
+        - listitem:
+          - button "Like Button": 
+          - text: "+2"
+    - listitem:
+      - link:
+        - /url: https://reteflix.reteicons.com/movie/basira-in-london-1/
+      - img "image"
+      - heading "Basira In London" [level=6]:
+        - link "Basira In London":
+          - /url: https://reteflix.reteicons.com/movie/basira-in-london-1/
+      - link "Play Now":
+        - /url: https://reteflix.reteicons.com/movie/basira-in-london-1/
+      - list:
+        - listitem: 
+        - listitem:
+          - button "Like Button": 
+          - text: "+2"
+    - listitem:
+      - link:
+        - /url: https://reteflix.reteicons.com/movie/murderer-in-law/
+      - img "image"
+      - heading "Murderer in Law" [level=6]:
+        - link "Murderer in Law":
+          - /url: https://reteflix.reteicons.com/movie/murderer-in-law/
+      - link "Play Now":
+        - /url: https://reteflix.reteicons.com/movie/murderer-in-law/
+      - list:
+        - listitem: 
+        - listitem:
+          - button "Like Button": 
+          - text: "+2"
+    - link "":
+      - /url: "#"
+  - heading "Awards" [level=4]
+  - link "View All":
+    - /url: https://reteflix.reteicons.com/awards-3/
+  - region "Image Carousel":
+    - group "1 of 8":
+      - figure:
+        - img "Nelas Academy Award"
+    - group "2 of 8":
+      - figure:
+        - img "Nollywood award"
+    - group "3 of 8":
+      - figure:
+        - img "BEFFTA 2014"
+    - group "4 of 8":
+      - figure:
+        - img "Cameroon Fil & Movie Academy Award"
+    - group "5 of 8":
+      - figure:
+        - img "THE NELAS AWARD 2019 FEMALE PRODUCER"
+    - group "6 of 8":
+      - figure:
+        - img "QUEEN OF NOLLYWOOD AMBASSADOR 2019-2020"
+    - group "7 of 8":
+      - figure:
+        - img "photo_2023-10-26_02-34-20"
+    - group "8 of 8":
+      - figure:
+        - img "photo_2023-10-26_02-34-32"
+    - button
+    - button
+  - heading "Gallery" [level=4]
+  - link "View All":
+    - /url: https://reteflix.reteicons.com/gallery-002/
+  - region "Image Carousel":
+    - group "1 of 8":
+      - figure:
+        - img "TY 21"
+    - group "2 of 8":
+      - figure:
+        - img "TY 13"
+    - group "3 of 8":
+      - figure:
+        - img "TY 10"
+    - group "4 of 8":
+      - figure:
+        - img "TY 8"
+    - group "5 of 8":
+      - figure:
+        - img "TY 5"
+    - group "6 of 8":
+      - figure:
+        - img "Tolu 2 - B_W"
+    - group "7 of 8":
+      - figure:
+        - img "Tolu 3 - Glam"
+    - group "8 of 8":
+      - figure:
+        - img "TY 3"
+    - button
+    - button
+- contentinfo:
+  - figure
+  - paragraph
+  - paragraph
+  - paragraph
+  - blockquote:
+    - paragraph:
+      - text: "\""
+      - strong: Eagle's Eye Productions - our films shape moments and inspire change."
+    - paragraph
+  - list:
+    - listitem:
+      - link "Contact Us":
+        - /url: /contact-us/
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://reteflix.reteicons.com/privacy-policy-2/
+    - listitem:
+      - link "Copyright":
+        - /url: https://reteflix.reteicons.com/copyright-2/
+    - listitem:
+      - link "Terms and Conditions":
+        - /url: https://reteflix.reteicons.com/terms-of-use/
+    - listitem:
+      - link "FAQ":
+        - /url: https://reteflix.reteicons.com/faq-4/
+  - heading "Follow Us :" [level=6]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/tolulope.yesufu
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/tolu_yesufu?s=21&t=PzWQOqUCoCL9Ihz2TV_kbA
+    - listitem:
+      - link "":
+        - /url: https://instagram.com/tolulopeyesufu?igshid=MzRlODBiNWFlZA==
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/in/tolu-yesufu/?originalSubdomain=uk
+    - listitem:
+      - link "":
+        - /url: https://youtube.com/@toluyesufu8208
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://reteflix.reteicons.com/
+    - listitem:
+      - link "Biography":
+        - /url: https://reteflix.reteicons.com/biography-2-2/
+    - listitem:
+      - link "About us":
+        - /url: https://reteflix.reteicons.com/about-us-3/
+    - listitem:
+      - link "Gallery":
+        - /url: /gallery-002/
+    - listitem:
+      - link "Awards":
+        - /url: https://reteflix.reteicons.com/elementor-21538/
+    - listitem:
+      - link "Blog":
+        - /url: https://reteflix.reteicons.com/blog/
+    - listitem:
+      - link "Movie Teasers":
+        - /url: https://reteflix.reteicons.com/view-all/?type=movies&title=.
+  - link "Subscribe":
+    - /url: https://reteflix.reteicons.com/subscribe/
+  - text: © 2023 ReteFlix. All Rights Reserved.
+- text: laptop
+- status
+```
