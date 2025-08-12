@@ -1,4 +1,4 @@
-@only
+
 Feature: Gallery page footer
 
 As a user of Retefliex website
