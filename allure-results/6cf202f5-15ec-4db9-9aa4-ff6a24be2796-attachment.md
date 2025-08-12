@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- img "loader"
+- banner:
+  - navigation "Main menu":
+    - link "streamit":
+      - /url: https://reteflix.reteicons.com/
+      - img "streamit"
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: https://reteflix.reteicons.com/
+      - listitem:
+        - link "Biography":
+          - /url: https://reteflix.reteicons.com/biography-2-2/
+      - listitem:
+        - link "About us":
+          - /url: https://reteflix.reteicons.com/about-us-3/
+      - listitem:
+        - link "Gallery":
+          - /url: /gallery-002/
+      - listitem:
+        - link "Awards":
+          - /url: https://reteflix.reteicons.com/elementor-21538/
+      - listitem:
+        - link "Blog":
+          - /url: https://reteflix.reteicons.com/blog/
+      - listitem:
+        - link "Movie Teasers":
+          - /url: https://reteflix.reteicons.com/view-all/?type=movies&title=.
+    - navigation "breadcrumb":
+      - list:
+        - listitem:
+          - link "":
+            - /url: javascript:void(0);
+- main:
+  - heading "Photo Gallery" [level=4]
+- contentinfo:
+  - figure
+  - paragraph
+  - paragraph
+  - paragraph
+  - blockquote:
+    - paragraph:
+      - text: "\""
+      - strong: Eagle's Eye Productions - our films shape moments and inspire change."
+    - paragraph
+  - list:
+    - listitem:
+      - link "Contact Us":
+        - /url: /contact-us/
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://reteflix.reteicons.com/privacy-policy-2/
+    - listitem:
+      - link "Copyright":
+        - /url: https://reteflix.reteicons.com/copyright-2/
+    - listitem:
+      - link "Terms and Conditions":
+        - /url: https://reteflix.reteicons.com/terms-of-use/
+    - listitem:
+      - link "FAQ":
+        - /url: https://reteflix.reteicons.com/faq-4/
+  - heading "Follow Us :" [level=6]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/tolulope.yesufu
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/tolu_yesufu?s=21&t=PzWQOqUCoCL9Ihz2TV_kbA
+    - listitem:
+      - link "":
+        - /url: https://instagram.com/tolulopeyesufu?igshid=MzRlODBiNWFlZA==
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/in/tolu-yesufu/?originalSubdomain=uk
+    - listitem:
+      - link "":
+        - /url: https://youtube.com/@toluyesufu8208
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://reteflix.reteicons.com/
+    - listitem:
+      - link "Biography":
+        - /url: https://reteflix.reteicons.com/biography-2-2/
+    - listitem:
+      - link "About us":
+        - /url: https://reteflix.reteicons.com/about-us-3/
+    - listitem:
+      - link "Gallery":
+        - /url: /gallery-002/
+    - listitem:
+      - link "Awards":
+        - /url: https://reteflix.reteicons.com/elementor-21538/
+    - listitem:
+      - link "Blog":
+        - /url: https://reteflix.reteicons.com/blog/
+    - listitem:
+      - link "Movie Teasers":
+        - /url: https://reteflix.reteicons.com/view-all/?type=movies&title=.
+  - link "Subscribe":
+    - /url: https://reteflix.reteicons.com/subscribe/
+  - text: © 2023 ReteFlix. All Rights Reserved.
+- link "":
+  - /url: "#top"
+```
