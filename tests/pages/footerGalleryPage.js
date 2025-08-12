@@ -12,16 +12,25 @@ class FooterGalleryPage
     async navigateToWebsite(url)
     {
         await this.page.goto(url)
+       
+
+
     }
 
     async clickGalleryButton()
     {
         await this.galleryButton.click()
+         
+
+
     }
 
     async verifyTheMessage()
     {
         await expect(this.verifyMessage).toBeVisible();
+          
+
+
     }
 }
 
